@@ -23,7 +23,7 @@ date: 2021-08-17 17:28:08
 
 添加以下内容：
 ```
-JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"
 CLASSPATH=".:$JAVA_HOME/lib:$JAVA_HOME/jre/lib"
 ```
 之后重启或者source一下文件即可生效。
