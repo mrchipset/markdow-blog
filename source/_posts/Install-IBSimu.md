@@ -7,8 +7,7 @@ tags:
   - C/C++
   - IBSimu
 categories:
-  - 安装教程
-  - IBSimu
+  - 环境配置
 abbrlink: d54260e5
 date: 2020-08-04 15:24:34
 ---
